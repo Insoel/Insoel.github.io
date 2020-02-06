@@ -54,28 +54,34 @@ html {
     text-align: center;
     background: #EFDECD;
 }
-.whatwedo-section {
+.academicprojects-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
-.contact-section {
+.skills-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #EFDECD;
+}
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
 	background-color: #F0F0F0;
 }
 .navbar-default {
-    background-color: #EBFAFF;
+    background-color: #000;
     border-color: #e7e7e7;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #000;
+    color: #FFF;
 }
 
 
