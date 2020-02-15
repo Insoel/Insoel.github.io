@@ -1,8 +1,10 @@
 .about-text-paragraph {
-	width: 70%;
+	width: 100%;
 	margin: auto;
+	color: #222;
+	text-shadow: 0px 2px 3px #555;
 	text-align: justify;
-	font-size: large;
+	font: 30px Tahoma, Helvetica, Arial, Sans-Serif;
 }
 
 
