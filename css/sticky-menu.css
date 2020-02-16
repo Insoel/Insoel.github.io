@@ -50,9 +50,10 @@ html {
 }
 .about-section {
     height: 100%;
+	width: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #474747 url(bg.png);
+    background: #79B4D1;
 }
 .academicprojects-section {
     height: 100%;
@@ -64,7 +65,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: #79B4D1;
 }
 .contact-section {
     height: 100%;
